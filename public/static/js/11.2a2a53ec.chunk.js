@@ -1,0 +1,2 @@
+(this["webpackJsonpmern-crud"]=this["webpackJsonpmern-crud"]||[]).push([[11],{352:function(r,e,t){"use strict";t.r(e);var n=t(0);e.default=function(r){var e=r.id;return(0,r.renderWrap)(n.createElement("iframe",{src:"https://gfycat.com/ifr/"+e,width:"100%",height:"500px",frameBorder:"0",scrolling:"no",allowFullScreen:!0}))}}}]);
+//# sourceMappingURL=11.2a2a53ec.chunk.js.map
