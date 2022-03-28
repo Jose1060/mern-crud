@@ -97,9 +97,21 @@ class App extends Component {
 							CREATE, READ, UPDATE, and DELETE operations are updated in
 							real-time to online users using Socket.io.
 						</p>
-						<p>
-							<iframe src="https://cristurm.github.io/nyan-cat/"></iframe>
-						</p>
+						<div
+							style={{
+								width: "100%",
+								height: "100",
+								padding: "20px",
+								background: "#083a8a",
+							}}>
+							<a href="https://github.com/Jose1060/mern-crud">
+								<p>
+									<iframe
+										style={{ width: "100%", height: "100" }}
+										src="https://cristurm.github.io/nyan-cat/"></iframe>
+								</p>
+							</a>
+						</div>
 					</div>
 				</div>
 				<Container>
